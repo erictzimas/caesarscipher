@@ -8,7 +8,7 @@ Download caesarscipher.py, enter $ python caesarscipher.py on terminal or cmd to
 
 # Usage
  
-Once you start it, the script is going to ask you which mode you like to choose/
+Once you start it, the script is going to ask you which mode you like to choose.
 Press 'e' for encryption mode
 Press 'd' for decryption mode
 Afterwards input your text(only small characters for now)
