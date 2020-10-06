@@ -13,17 +13,4 @@ Press 'e' for encryption mode
 Press 'd' for decryption mode
 Afterwards input your text(only small characters for now)
 and provide key from 1 - 25.
-For example.
 
-Select mode
-
-'e'
-eric
-2
-gtke
-
-Select mode 
-'d'
-gtke
-2
-eric
